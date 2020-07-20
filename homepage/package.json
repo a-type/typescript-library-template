@@ -9,11 +9,9 @@
     "build:gh": "parcel build index.html --public-url /typescript-library-template/ --out-dir ../docs"
   },
   "dependencies": {
-    "react-app-polyfill": "^1.0.0"
-  },
-  "alias": {
-    "react": "../node_modules/react",
-    "react-dom": "../node_modules/react-dom"
+    "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.0",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
