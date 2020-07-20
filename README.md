@@ -1,6 +1,6 @@
-# react-typescript-library-template
+# typescript-library-template
 
-Personal template of [@a-type](https://github.com/a-type) for creating React libraries using Typescript.
+Personal template of [@a-type](https://github.com/a-type) for creating libraries using Typescript.
 
 ## Features
 
